@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\bin\Debug\Sem3PAW_1064_WF.exe.config
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\bin\Debug\Sem3PAW_1064_WF.exe
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\bin\Debug\Sem3PAW_1064_WF.pdb
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.Form1.resources
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.exe
+C:\Users\Administrator\Desktop\Sem3PAW_1064_WF\obj\Debug\Sem3PAW_1064_WF.pdb

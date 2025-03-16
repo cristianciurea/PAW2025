@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Sem3PAW_1064\bin\Debug\Sem3PAW_1064.exe.config
+C:\Users\Administrator\Desktop\Sem3PAW_1064\bin\Debug\Sem3PAW_1064.exe
+C:\Users\Administrator\Desktop\Sem3PAW_1064\bin\Debug\Sem3PAW_1064.pdb
+C:\Users\Administrator\Desktop\Sem3PAW_1064\obj\Debug\Sem3PAW_1064.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sem3PAW_1064\obj\Debug\Sem3PAW_1064.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sem3PAW_1064\obj\Debug\Sem3PAW_1064.exe
+C:\Users\Administrator\Desktop\Sem3PAW_1064\obj\Debug\Sem3PAW_1064.pdb
