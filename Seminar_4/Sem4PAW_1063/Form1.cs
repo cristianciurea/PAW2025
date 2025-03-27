@@ -41,7 +41,13 @@ namespace Sem3PAW_1063_WF
                 try
                 {
                     int cod = Convert.ToInt32(tbCod.Text);
-                    char sex = Convert.ToChar(cbSex.Text);
+                    //char sex = Convert.ToChar(cbSex.Text);
+                    char sex = 'M';
+                    if (radioButton1.Checked == true)
+                        sex = 'M';
+                    else
+                        if (radioButton2.Checked == true)
+                        sex = 'F';
                     int varsta = Convert.ToInt32(tbVarsta.Text);
                     string nume = tbNume.Text;
                     string noteS = tbNote.Text;
@@ -79,6 +85,24 @@ namespace Sem3PAW_1063_WF
         {
             Form2 frm = new Form2(listaStud);
             frm.ShowDialog();
+        }
+
+        private void tbCod_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar >= '0' && e.KeyChar <= '9'
+                || e.KeyChar == (char)8)
+                e.Handled = false;
+            else
+                e.Handled = true;
+        }
+
+        private void tbNote_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar >= '0' && e.KeyChar <= '9'
+                || e.KeyChar == (char)8 || e.KeyChar==',')
+                e.Handled = false;
+            else
+                e.Handled = true;
         }
     }
 }
