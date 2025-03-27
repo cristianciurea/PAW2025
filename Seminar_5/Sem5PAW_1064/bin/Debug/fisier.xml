@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CursValutar>
+  <DataCurs />
+  <CursEUR valuta="EUR" />
+  <CursUSD valuta="USD" />
+  <CursGBP valuta="GBP" />
+  <CursXAU valuta="XAU" />
+</CursValutar>

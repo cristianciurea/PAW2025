@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet xmlns="http://www.bnr.ro/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bnr.ro/xsd nbrfxrates.xsd">
+	<Header>
+		<Publisher>National Bank of Romania</Publisher>
+		<PublishingDate>2025-03-26</PublishingDate>
+		<MessageType>DR</MessageType>
+	</Header>
+	<Body>
+		<Subject>Reference rates</Subject>
+		<OrigCurrency>RON</OrigCurrency>
+		<Cube date="2025-03-26">
+			<Rate currency="AED">1.2555</Rate>
+			<Rate currency="AUD">2.9178</Rate>
+			<Rate currency="BGN">2.5442</Rate>
+			<Rate currency="BRL">0.8090</Rate>
+			<Rate currency="CAD">3.2367</Rate>
+			<Rate currency="CHF">5.2163</Rate>
+			<Rate currency="CNY">0.6348</Rate>
+			<Rate currency="CZK">0.1997</Rate>
+			<Rate currency="DKK">0.6670</Rate>
+			<Rate currency="EGP">0.0912</Rate>
+			<Rate currency="EUR">4.9761</Rate>
+			<Rate currency="GBP">5.9508</Rate>
+			<Rate currency="HKD">0.5930</Rate>
+			<Rate currency="HUF" multiplier="100">1.2428</Rate>
+			<Rate currency="IDR" multiplier="100">0.0278</Rate>
+			<Rate currency="ILS">1.2569</Rate>
+			<Rate currency="INR">0.0538</Rate>
+			<Rate currency="ISK" multiplier="100">3.4580</Rate>
+			<Rate currency="JPY" multiplier="100">3.0697</Rate>
+			<Rate currency="KRW" multiplier="100">0.3150</Rate>
+			<Rate currency="MDL">0.2547</Rate>
+			<Rate currency="MXN">0.2297</Rate>
+			<Rate currency="MYR">1.0411</Rate>
+			<Rate currency="NOK">0.4389</Rate>
+			<Rate currency="NZD">2.6563</Rate>
+			<Rate currency="PHP">0.0799</Rate>
+			<Rate currency="PLN">1.1934</Rate>
+			<Rate currency="RSD">0.0425</Rate>
+			<Rate currency="RUB">0.0547</Rate>
+			<Rate currency="SEK">0.4589</Rate>
+			<Rate currency="SGD">3.4483</Rate>
+			<Rate currency="THB">0.1359</Rate>
+			<Rate currency="TRY">0.1213</Rate>
+			<Rate currency="UAH">0.1109</Rate>
+			<Rate currency="USD">4.6113</Rate>
+			<Rate currency="XAU">448.2116</Rate>
+			<Rate currency="XDR">6.1180</Rate>
+			<Rate currency="ZAR">0.2530</Rate>
+		</Cube>
+	</Body>
+</DataSet>
