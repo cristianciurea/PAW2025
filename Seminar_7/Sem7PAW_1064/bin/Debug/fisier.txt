@@ -1,0 +1,5 @@
+100|Benvenutto|Calea Bucuresti 123|17|195000
+200|BellaVitta|Calea Constantei 112|9|154000
+300|Bellmondo|Aleea Lalelelor|12|99000
+400|Bellissimo|Str. Biruintei|6|51000
+500|BellaNotte|Calea Dorobanti|10|77000
