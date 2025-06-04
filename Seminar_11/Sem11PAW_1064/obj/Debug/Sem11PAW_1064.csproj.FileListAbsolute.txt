@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Sem11PAW_1064\bin\Debug\Sem11PAW_1064.exe.config
+C:\Users\Administrator\Desktop\Sem11PAW_1064\bin\Debug\Sem11PAW_1064.exe
+C:\Users\Administrator\Desktop\Sem11PAW_1064\bin\Debug\Sem11PAW_1064.pdb
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.Form1.resources
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.exe
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.pdb
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.DataOra.resources
+C:\Users\Administrator\Desktop\Sem11PAW_1064\obj\Debug\Sem11PAW_1064.Copyright.resources
